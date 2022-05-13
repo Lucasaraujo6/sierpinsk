@@ -55,7 +55,7 @@ public class Desenho extends Canvas{
         g.setColor(Color.WHITE);
         // if(contador % 2 == 1 ) { g.setColor(Color.RED); }else{g.setColor(Color.BLACK);};
         try {
-            Thread.sleep(70);
+            Thread.sleep(500);
         } catch (InterruptedException e) {
             // TODO Auto-generated catch block
             e.printStackTrace();
